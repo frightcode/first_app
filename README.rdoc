@@ -1,3 +1,4 @@
 == Ruby on Rails Tutorial: First application
 
+<<<<<<< HEAD
 This is the first application of <tt>Ruby on Rails Tutorial[http:/railstutorial.ru]</tt>
